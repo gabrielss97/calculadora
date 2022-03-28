@@ -1,27 +1,25 @@
 # Calculadora
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.3.
+<h4 align="center"> 
+	🚧  Calculadora 🚀 Concluída  🚧
+</h4>
+
+Esse projeto foi gerado com [Angular CLI](https://github.com/angular/angular-cli) version 13.2.3.
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Rode `ng serve` no terminal para abrir o ambiente de desenvolvimento na URL `http://localhost:4200/`.
 
-## Code scaffolding
+<p align="center">Nesse projeto criei uma calculadora em um conceito minimalista utilizando Angular e Sass.</p>
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+<img src="./src/assets/print-calculadora" style="width: 50%;">
 
-## Build
+<a href="http://profgabrielsalvador.com.br/">
+ <img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4D03AQGTWTUVNZqnwA/profile-displayphoto-shrink_100_100/0/1643988029715?e=1653523200&v=beta&t=pxhJ8Y23MGvmY2UdAJuFKt34Nkn09VBYrrkAQfm7VOA" width="100px;" alt=""/>
+ <br />
+ <sub><b>Gabriel Salvador</b></sub></a> <a href="http://profgabrielsalvador.com.br/" title="Rocketseat">🚀</a>
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Feito com ❤️ por Gabriel Salvador 👋🏽 Entre em contato!
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+[![Linkedin Badge](https://img.shields.io/badge/-Gabriel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-ssalvador/)](https://www.linkedin.com/in/gabriel-ssalvador/)
+[![Gmail Badge](https://img.shields.io/badge/-gabriel.ssalvador97@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriel.ssalvador97@gmail.com)](mailto:gabriel.ssalvador97@gmail.com)
